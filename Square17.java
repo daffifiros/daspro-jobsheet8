@@ -9,6 +9,7 @@ public class Square17 {
             System.out.print("*");
         }
         System.out.println();
+
         
         }
     }
