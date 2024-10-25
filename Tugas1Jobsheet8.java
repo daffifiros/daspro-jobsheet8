@@ -28,7 +28,7 @@ public class Tugas1Jobsheet8 {
                 System.out.println();
             }
 
-            
+
             for (int i = 0; i < N; i++) {
                 System.out.print(N + " ");
             }
