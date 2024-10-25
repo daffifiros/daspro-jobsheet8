@@ -18,6 +18,7 @@ public class RataNilai17 {
             rataNilai = totalNilai / 5;
             System.out.println("Rata-rata Nilai Mahasiswa ke-" + i + " = " + rataNilai);
             i++;
+            
             }
      }
 }
