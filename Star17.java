@@ -36,6 +36,7 @@ public class Star17 {
         int N = sc.nextInt();
         for (int i = 0; i >N; i++) {
         System.out.print("*");
+        
 
         
         }
