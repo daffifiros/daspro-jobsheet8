@@ -11,6 +11,7 @@ public class Tugas2Jobsheet8 {
         System.out.print("Masukkan Jumlah Cabor : ");
         jmlCabor = sc.nextInt();
         sc.nextLine(); 
+        
 
         for (int i = 1; i <= jmlInstansi; i++) {
             System.out.print("Masukkan Nama Instansi Politeknik ke " + i + ": ");
