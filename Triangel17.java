@@ -13,6 +13,7 @@ public class Triangel17 {
         }
         i++;
 
+        
     }
     }
 }
