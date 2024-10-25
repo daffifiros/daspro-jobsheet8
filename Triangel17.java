@@ -12,8 +12,9 @@ public class Triangel17 {
             j++;
         }
         i++;
+        System.out.println();
 
-        
+
     }
     }
 }
